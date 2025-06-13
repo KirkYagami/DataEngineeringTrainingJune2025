@@ -9,8 +9,9 @@
     - https://realpython.com/python-namespace/
 2. `dir()`:
     - https://realpython.com/ref/builtin-functions/dir/
-
-
+3. Encapsulation:
+    - https://www.datacamp.com/tutorial/encapsulation-in-python-object-oriented-programming
+    
 ...
 
 ---
