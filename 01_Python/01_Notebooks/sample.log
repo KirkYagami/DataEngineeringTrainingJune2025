@@ -1,0 +1,3 @@
+ERROR: Database connection failed
+INFO: Retrying connection
+SUCCESS: Connected to database
