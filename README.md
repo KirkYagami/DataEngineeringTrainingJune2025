@@ -24,8 +24,7 @@
 5. 05_Python_Exceptions: https://colab.research.google.com/drive/1vUOLGKWDkKXZ51-PrbE37UwiBHr6dyYq?usp=sharing
 6. 06_Python_OOPS: https://colab.research.google.com/drive/1lnArLEnnfjb-Pn1yIXhoeQ-UocRuibCl?usp=sharing
 
-... 
-Other notebooks are available here: 
+> Other notebooks are available here: [🔗](https://github.com/KirkYagami/DataEngineeringTrainingJune2025/tree/main/01_Python/01_Notebooks)
 
 ---
 
