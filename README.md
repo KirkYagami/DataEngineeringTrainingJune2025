@@ -24,6 +24,24 @@
 5. 05_Python_Exceptions: https://colab.research.google.com/drive/1vUOLGKWDkKXZ51-PrbE37UwiBHr6dyYq?usp=sharing
 6. 06_Python_OOPS: https://colab.research.google.com/drive/1lnArLEnnfjb-Pn1yIXhoeQ-UocRuibCl?usp=sharing
 
+... 
+Other notebooks are available here: 
+
+---
+
+
+## SQL
+### Suggested Readings (Not in order):
+1. https://medium.com/@aqilzeka99/a-comprehensive-guide-to-sql-commans-ddl-dql-dml-dcl-and-tcl-cd2de3540d4e
+
+### Practice SQL
+1. SQUID GAME: https://datalemur.com/sql-game/level1.html
+2. Murder Mystery: https://mystery.knightlab.com/
+3. https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
+
+
+
+
 ---
 
 <div align="center">
