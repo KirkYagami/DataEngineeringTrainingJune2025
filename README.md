@@ -32,6 +32,7 @@
 ## SQL
 ### Suggested Readings (Not in order):
 1. https://medium.com/@aqilzeka99/a-comprehensive-guide-to-sql-commans-ddl-dql-dml-dcl-and-tcl-cd2de3540d4e
+2. 12 SQL query optimization best practices for cloud databases https://share.google/kIm8jKqk8byoDgL6n
 
 ### Practice SQL
 1. SQUID GAME: https://datalemur.com/sql-game/level1.html
