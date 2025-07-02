@@ -48,6 +48,9 @@
     - https://www.scylladb.com/glossary/cap-theorem/
     - https://medium.com/@ngneha090/understanding-the-cap-theorem-balancing-consistency-availability-and-partition-cb11c2b97e2b
     - https://www.bmc.com/blogs/cap-theorem/
+2. https://researchcomputing.princeton.edu/faq/what-is-a-cluster
+
+![alt text](assets\images\cluster_racks.png)
 
 
 
