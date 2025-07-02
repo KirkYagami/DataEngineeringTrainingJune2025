@@ -34,12 +34,20 @@
 1. https://medium.com/@aqilzeka99/a-comprehensive-guide-to-sql-commans-ddl-dql-dml-dcl-and-tcl-cd2de3540d4e
 2. 12 SQL query optimization best practices for cloud databases https://share.google/kIm8jKqk8byoDgL6n
 3. Optimizing SQL Query Performance: A Comprehensive Guide | by Taran Kaur | Women in Technology | Medium https://share.google/yhmjcWASAbCqmOuIy
+4. https://www.softwareag.com/en_corporate/blog/streamsets/schemas-data-warehouses-star-galaxy-snowflake.html
 
 ### Practice SQL
 1. SQUID GAME: https://datalemur.com/sql-game/level1.html
 2. Murder Mystery: https://mystery.knightlab.com/
 3. https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
 
+
+## Big Data
+### Suggested Readings (Not in order):
+1. CAP Theorem:
+    - https://www.scylladb.com/glossary/cap-theorem/
+    - https://medium.com/@ngneha090/understanding-the-cap-theorem-balancing-consistency-availability-and-partition-cb11c2b97e2b
+    - https://www.bmc.com/blogs/cap-theorem/
 
 
 
