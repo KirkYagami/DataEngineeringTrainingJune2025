@@ -51,7 +51,7 @@
     - https://www.bmc.com/blogs/cap-theorem/
 2. https://researchcomputing.princeton.edu/faq/what-is-a-cluster
 
-![alt text](assets\images\cluster_racks.png)
+![alt text](assets/images/cluster_racks.png)
 
 
 
