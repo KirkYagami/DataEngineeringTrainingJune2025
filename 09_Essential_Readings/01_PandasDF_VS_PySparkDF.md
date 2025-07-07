@@ -1,4 +1,5 @@
-![PandasVSPySpark_Logos](assets/images/PandasVSPySpark_Logos.png)
+![PandasVSPySpark_Logos](../assets/images/PandasVSPySpark_Logos.png)
+
 
 ---
 
@@ -28,7 +29,7 @@ Choose **pandas** for data analysis, prototyping, and datasets under a few GB. C
 
 The choice depends on your data size, infrastructure, and specific requirements.
 
-![](assets/images/pandas_vs_pyspark_df.png)
+![](../assets/images/pandas_vs_pyspark_df.png)
 
 
 
