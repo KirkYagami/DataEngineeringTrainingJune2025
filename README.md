@@ -44,6 +44,11 @@
 
 
 ## Big Data
+
+
+![alt text](assets/images/cluster_racks.png)
+
+
 ### Suggested Readings (Not in order):
 1. CAP Theorem:
     - https://www.scylladb.com/glossary/cap-theorem/
@@ -52,7 +57,6 @@
 2. https://researchcomputing.princeton.edu/faq/what-is-a-cluster
 3. Pandas Vs PySpark Dataframe: https://github.com/KirkYagami/DataEngineeringTrainingJune2025/blob/main/09_Essential_Readings/01_PandasDF_VS_PySparkDF.md
 
-![alt text](assets/images/cluster_racks.png)
 
 
 
