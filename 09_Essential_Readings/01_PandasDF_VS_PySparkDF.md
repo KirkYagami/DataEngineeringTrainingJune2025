@@ -1,4 +1,7 @@
-![PandasVSPySpark_Logos](assets\images\PandasVSPySpark_Logos.png)
+![PandasVSPySpark_Logos](assets/images/PandasVSPySpark_Logos.png)
+
+---
+
 
 Python DataFrames (pandas) and PySpark DataFrames serve similar purposes but are designed for different scales and computational environments:
 
