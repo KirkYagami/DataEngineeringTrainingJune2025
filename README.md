@@ -50,6 +50,7 @@
     - https://medium.com/@ngneha090/understanding-the-cap-theorem-balancing-consistency-availability-and-partition-cb11c2b97e2b
     - https://www.bmc.com/blogs/cap-theorem/
 2. https://researchcomputing.princeton.edu/faq/what-is-a-cluster
+3. Pandas Vs PySpark Dataframe: https://github.com/KirkYagami/DataEngineeringTrainingJune2025/blob/main/09_Essential_Readings/01_PandasDF_VS_PySparkDF.md
 
 ![alt text](assets/images/cluster_racks.png)
 
