@@ -57,6 +57,7 @@
 2. https://researchcomputing.princeton.edu/faq/what-is-a-cluster
 3. Pandas Vs PySpark Dataframe: https://github.com/KirkYagami/DataEngineeringTrainingJune2025/blob/main/09_Essential_Readings/01_PandasDF_VS_PySparkDF.md
 
+4. `df.sample()`: https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.sample.html#:~:text=Notes,given%20DataFrame.
 
 
 
