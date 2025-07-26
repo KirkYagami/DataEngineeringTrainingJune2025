@@ -179,21 +179,3 @@ if __name__ == "__main__":
 
 
     print("\nEnd of script. Data pipeline execution attempt complete.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
