@@ -6,3 +6,9 @@ __pycache__
 05 Rev
 
 09 NOT SHARED
+
+.venv
+
+.venv4gcp
+
+.env
