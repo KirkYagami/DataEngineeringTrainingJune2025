@@ -3,6 +3,11 @@ import pandas as pd
 from pyspark.sql import SparkSession
 import datetime
 import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 # Initialize GCS & BigQuery Clients
 storage_client = storage.Client()
@@ -26,10 +31,10 @@ BQ_TEMP_PATH = f"{GCS_BUCKET}/temp/"
 
 # MySQL Configuration
 MYSQL_CONFIG = {
-    "url": "jdbc:mysql://34.132.22.219:3306/hospital-a-db?useSSL=false&allowPublicKeyRetrieval=true",
+    "url": f"jdbc:mysql://{os.getenv('MYSQL_HOST')}:{os.getenv('MYSQL_PORT', '3306')}/{os.getenv('MYSQL_DATABASE')}?useSSL=false&allowPublicKeyRetrieval=true",
     "driver": "com.mysql.cj.jdbc.Driver",
-    "user": "nikhil_a",
-    "password": "**************"
+    "user": os.getenv("MYSQL_USER"),
+    "password": os.getenv("MYSQL_PASSWORD")
 }
 
 ##------------------------------------------------------------------------------------------------------------------##
