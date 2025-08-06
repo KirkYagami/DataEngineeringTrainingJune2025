@@ -9,6 +9,12 @@ __pycache__
 
 .venv
 
+.venv*
+
+
 .venv4gcp
 
 .env
+
+airflow
+
