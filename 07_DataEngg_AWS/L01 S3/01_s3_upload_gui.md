@@ -83,5 +83,3 @@
     - Click on each image name
     - Copy the "Object URL" - this is your public link
     - Test the URL in a new browser tab
-
----
